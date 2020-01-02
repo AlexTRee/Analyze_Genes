@@ -1,3 +1,4 @@
+###############################################################################
 # gene_analysis.py
 # Author: Eden Johnson
 # Last updated: 5/15/19
@@ -9,6 +10,7 @@
 #               round() built-in Python methods, .readlines(), .rstrip(),
 #               .write(), .read(), .upper(), .count(). Use of dictionarries,
 #               conditional statement, for loops. Import of the re module
+###############################################################################
 
 import re
 
